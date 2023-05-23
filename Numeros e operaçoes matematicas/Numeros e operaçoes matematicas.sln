@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Numeros e operaçoes matematicas", "Numeros e operaçoes matematicas\Numeros e operaçoes matematicas.pyproj", "{BEF822B9-C800-4EB6-AD86-380277CC2AEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEF822B9-C800-4EB6-AD86-380277CC2AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF822B9-C800-4EB6-AD86-380277CC2AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE2F0C64-B759-4897-814F-CEB9D80F02FB}
+	EndGlobalSection
+EndGlobal
